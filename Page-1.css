@@ -1,0 +1,112 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 31px auto 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 31px auto 0;
+  padding: 10px 155px 10px 154px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 31px auto 0;
+  padding: 10px 174px 10px 173px;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 31px auto 0;
+  padding: 10px 190px;
+}
+
+.u-section-1 .u-btn-5 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 31px auto 0;
+  padding: 10px 164px 10px 163px;
+}
+
+.u-section-1 .u-btn-6 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 31px auto 44px;
+  padding: 10px 144px 10px 143px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 452px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 0.875rem;
+    align-self: center;
+    margin-top: 28px;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 9px 14px 11px 13px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    align-self: center;
+    margin-top: 21px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 119px;
+    padding-left: 117px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    align-self: center;
+    margin-top: 28px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 137px;
+    padding-left: 136px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    align-self: center;
+    margin-top: 28px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 154px;
+    padding-left: 153px;
+  }
+
+  .u-section-1 .u-btn-5 {
+    align-self: center;
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 127px;
+    padding-left: 126px;
+  }
+
+  .u-section-1 .u-btn-6 {
+    padding-right: 106px;
+    padding-left: 106px;
+    margin: 21px 0 28px;
+  }
+}
